@@ -1,6 +1,6 @@
 👩🏻‍💻 Vitor Dias 
 
-**`Desenvolvedora Front-End`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Vitor Henrique Dias, tenho 18 anos e sou nascido na cidade de Ilha Solteira. Concluí o ensino médio em dezembro de 2024. Atualmente, estou cursando Ciencias da Computação na UNIP. Sou apaixonado por linguagens de Programação e Hardware do Computadores.
 
