@@ -45,6 +45,5 @@ Me chamo Vitor Henrique Dias, tenho 18 anos e sou nascido na cidade de Ilha Solt
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
 
