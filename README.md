@@ -47,9 +47,12 @@ Me chamo Vitor Henrique Dias, tenho 18 anos e sou nascido na cidade de Ilha Solt
 
 ### 📊 Estatísticas
 
+<p>
 <img 
     align="left"  
+    alt="GitHub Stats"
     height="200px" 
     style="padding-right: 10px;" 
-    src=![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+    src=![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitordiasj_count=8)
 />
+</p>
